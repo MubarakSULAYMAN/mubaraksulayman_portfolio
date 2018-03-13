@@ -1,0 +1,44 @@
+.bar
+{
+    width: 25%;
+}
+
+.work, .projects
+{
+    color: rgb(147, 147, 147);
+}
+
+.interest, .skills, .contacts, .git
+{
+    color: brown;
+}
+
+.tel, .gitAddress
+{
+    color: rgb(46, 41, 41);
+}
+
+.linkedIn, .facebook, .twitter
+{
+    color: rgb(44, 44, 156);
+}
+
+.mail, .gplus
+{
+    color: red;
+}
+
+.honours, .grad, .html, .js 
+{
+    color: gold;
+}
+
+.vue, .nodeJS, .android
+{
+    color: rgb(0, 160, 0)
+}
+
+.css, .python
+{
+    color: blue;
+}
