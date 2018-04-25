@@ -1,14 +1,59 @@
+.welcome
+{
+    font-family: 'Pacifico', sans-serif;
+    font-size: 200%;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+.name
+{
+    font-family: 'Orbitron';
+}
+
+.focus
+{
+    font-family: 'Gugi';
+}
+
+.talk
+{
+    font-family: 'Yatra One';
+}
+
+.identity
+{
+    margin-top: 1%;
+}
+
+.head
+{
+    font-family: 'Raleway';
+}
+
+.list
+{
+    font-family: 'Mina';
+    font-size: 120%;
+}
+
+.sub
+{
+    font-family: 'Nova Cut';
+}
+
+
+
 .bar
 {
     width: 25%;
 }
 
-.work, .projects
+.work, .projects, dusk
 {
     color: rgb(147, 147, 147);
 }
 
-.interest, .skills, .contacts, .git
+.interest, .skills, .contacts, .git, .dawn, card
 {
     color: rgb(165, 42, 42);
 }
@@ -28,7 +73,7 @@
     color: red;
 }
 
-.honours, .grad, .html, .js 
+.honours, .grad, .html, .js, .noon
 {
     color: gold;
 }
